@@ -1,4 +1,3 @@
-package problems;
 /*
     It checks Weather give word is Polindrome or not
     using two pointers problem
